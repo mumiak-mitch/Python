@@ -1,3 +1,5 @@
+#A program that calculates area
+
 class Rectangle:
     def __init__(self, width, height):
        self.width = width

@@ -1,3 +1,5 @@
+#Checks whether a number is divisible by 3 or 5 and resonds with fizz or buzz
+
 for num in range(1,21):
     string = ''
     if num % 3 == 0:

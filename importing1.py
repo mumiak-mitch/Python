@@ -1,3 +1,6 @@
+#Refer to importing.py
+#They work hand in hand
+
 def mean(num_list):
 	return sum(num_list) / len(num_list)
 	

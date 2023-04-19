@@ -1,3 +1,5 @@
+#Inheritance described
+
 class Animal:
 	def __init__(self, name, color):
 		self.name = name

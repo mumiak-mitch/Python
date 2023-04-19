@@ -1,3 +1,5 @@
+#Lets catch some bugs
+
 def party_planner(cookies, people):
     leftovers = None
     num_each = None

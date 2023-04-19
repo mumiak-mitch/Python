@@ -1,3 +1,5 @@
+# A program that outputs the sum of numbers
+
 import numbers
 
 

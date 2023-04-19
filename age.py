@@ -1,8 +1,14 @@
-age = int(input('Please enter a persons age.'))
+#A program that takes age as input and determines the category it belongs to
 
-if age <= 18:
-    print 'You are a minor.'
+age = int(input('Please enter your age: '))
+
+if age > 0 and  age < 18:
+    print('You are a minor')
 elif age > 18 and age < 65:
-    print 'You are an adult.'
-else if age >= 65:
-    print 'You are a senior.'
+    print('You are an adult.')
+elif age >= 65:
+    print('You are a senior.')
+else:
+    print('Invalid')
+
+print(age)

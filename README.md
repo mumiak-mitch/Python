@@ -1,7 +1,23 @@
 # Python 
 
-This is a repo for my beginner python projects 
+A programming language is a language used by humans to communicate with machines.
 
-They are very minute and understandable
+Python is widely used in web development, game development, data analytics, data science and machine learning.
 
-The .txt files are for use with the files.py file. They demonstrate how you can read and write using Python.
+Python has a simple syntax.
+
+A data type tells  computer how to interpret, store and operate with the value.
+
+A variable has a label and is used to store a value.
+
+Debugging is the process of finding and fixing bugs.
+
+Comments
+
+    #
+
+A function is a group of related statements that perform a specific task.
+
+Encapsulation involves packaging of related variables and functions into a single easy to use object.
+
+Data hiding states that implementation details of a class should be hidden and a clean standard interface be represented for those who want to use the class.

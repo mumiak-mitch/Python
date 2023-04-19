@@ -1,1 +1,0 @@
-I now understand how to open and close files using a programming language

@@ -1,3 +1,7 @@
+#This program imports another program
+#It also calculates mean
+#Importing1.py has also been included
+
 import importing1 as uf
 
 scores = [88, 92, 79, 93, 85]

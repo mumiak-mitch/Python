@@ -1,3 +1,5 @@
+#Calculates the sum of even numbers in a given list
+
 user_list = []
 list_sum = 0
 for i in range(10):
