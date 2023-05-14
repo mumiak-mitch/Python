@@ -21,3 +21,14 @@ A function is a group of related statements that perform a specific task.
 Encapsulation involves packaging of related variables and functions into a single easy to use object.
 
 Data hiding states that implementation details of a class should be hidden and a clean standard interface be represented for those who want to use the class.
+
+
+## Projects
+In addition to the minute projects the repository contains 
+    number guesser game
+
+    choose your own adventure game
+
+    quiz game
+
+    rock paper scissors
