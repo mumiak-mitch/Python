@@ -25,6 +25,7 @@ Data hiding states that implementation details of a class should be hidden and a
 
 ## Projects
 In addition to the minute projects the repository contains 
+
     number guesser game
 
     choose your own adventure game
